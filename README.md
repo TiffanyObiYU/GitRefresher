@@ -1,5 +1,4 @@
-# Git Refresher
-Gitbash - Download using https://git-scm.com/downloads. Right-click anywhere on our desktop or in a folder and select "git-bash here". Then a terminal should pop up. 
+# Git Refresher 
 
 ## Unix Commands
 - **ls** : lets us view the contents of the current folder/directory
@@ -36,4 +35,7 @@ Helpful Resource: http://mally.stanford.edu/~sr/computing/basic-unix.html
 - **git commit -m "message"** : commit our staged changes and tag them with the message
 - We want our commit messages to be as descriptive as possible (as well as concise)
 - **git push** : pushes our code to the repo
-- Note: if you are using git bash for the first time, you will probably have to log in using your username and password 
+- Note: if you are using git bash for the first time, you will probably have to log in using your username and password
+
+**Only use IF you don't already have gitbash/terminal, otherwise ignore this link**
+Gitbash - Download using https://git-scm.com/downloads. Right-click anywhere on our desktop or in a folder and select "git-bash here". Then a terminal should pop up.
