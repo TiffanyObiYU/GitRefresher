@@ -17,7 +17,8 @@
 - :wq : write/quit & saves the file
 
 # Git
-Helpful Resource: [https://www.atlassian.com/git](https://www.atlassian.com/git) </n>
+Helpful Resource: [https://www.atlassian.com/git](https://www.atlassian.com/git) 
+
 **Git 'Cheat Sheet' [Here!!](https://education.github.com/git-cheat-sheet-education.pdf)**
 - version control - controlling/managing different versions or snapshots of your code
 - great for team-work, but also for solo work, keeping your code in one remote place
