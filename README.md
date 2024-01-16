@@ -2,8 +2,8 @@
 Gitbash - Download using https://git-scm.com/downloads. Right-click anywhere on our desktop or in a folder and select "git-bash here". Then a terminal should pop up. 
 
 ## Unix Commands
-- **ls** : let us view the contents of the current folder/directory
-- **mkdir dir_name** : let us create a new folder/directory with the given name
+- **ls** : lets us view the contents of the current folder/directory
+- **mkdir dir_name** : lets us create a new folder/directory with the given name
 - **cd path** : lets us navigate to the designated path (.. lets us go "up" a directory)
 - **touch file_name** : creates a new file with the designated name
 - **vim file_name** : lets us create or edit a file with the designated name
@@ -13,16 +13,17 @@ Gitbash - Download using https://git-scm.com/downloads. Right-click anywhere on 
 - http://mally.stanford.edu/~sr/computing/basic-unix.html
 
 ## VIM
-- i : let us insert, edit the file
+- i : lets us insert, edit the file
 - esc : takes out of insert mode
-- :wq : write/quit, saves the file
+- :wq : write/quit & saves the file
 
 # Git
 Helpful Resource: http://mally.stanford.edu/~sr/computing/basic-unix.html
-- version control - controlling, managing different versions or snapshots of your code
-- great for team-work, but also solo work, keeping your code in one place
-- merging
-- Github, Gitlab are websites that host projects using git
+- version control - controlling/managing different versions or snapshots of your code
+- great for team-work, but also for solo work, keeping your code in one remote place
+- merging ~ being able to take individual code/files/projects from different people
+             and combining them together to create one huge project
+- Github & Gitlab are websites that host projects using git
 - repository - a location where your code is. Usually, a repo only contains one project or even a part of a project
 - public repo - everyone can see
 - private repo - only certain people can view the repository
