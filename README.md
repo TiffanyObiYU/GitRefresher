@@ -1,8 +1,7 @@
 # Git Refresher
-## Gitbash
-Download using https://git-scm.com/downloads. Right-click anywhere on our desktop or in a folder and select "git-bash here". Then a terminal should pop up. 
+Gitbash - Download using https://git-scm.com/downloads. Right-click anywhere on our desktop or in a folder and select "git-bash here". Then a terminal should pop up. 
 
-# Unix Commands
+## Unix Commands
 - ls : let us view the contents of the current folder/directory
 - mkdir dir_name : let us create a new folder/directory with the given name
 - cd path : lets us navigate to the designated path (.. lets us go "up" a directory)
