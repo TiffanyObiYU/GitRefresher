@@ -9,7 +9,7 @@
 - **cat file_name** : lets us view the contents of a file
 - hint - hitting tab can autofill file names/directories. If there are similar names, hit tab again to see all of the options
 - Use arrow keys to go up and down the terminal to previous commands
-- http://mally.stanford.edu/~sr/computing/basic-unix.html
+- Helpful Resource: [http://mally.stanford.edu/~sr/computing/basic-unix.html](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 
 ## VIM
 - i : lets us insert, edit the file
@@ -17,7 +17,7 @@
 - :wq : write/quit & saves the file
 
 # Git
-Helpful Resource: http://mally.stanford.edu/~sr/computing/basic-unix.html
+Helpful Resource: [https://www.atlassian.com/git](https://www.atlassian.com/git)
 - version control - controlling/managing different versions or snapshots of your code
 - great for team-work, but also for solo work, keeping your code in one remote place
 - merging ~ being able to take individual code/files/projects from different people
